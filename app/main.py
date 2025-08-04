@@ -1,14 +1,14 @@
-# app/main.py
+
 
 import sys, os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-# import utils.screencontrollers as sc
+
 import controllers.reportes as rp
 
 def main_menu():
     while True:
-        # sc.limpiar_pantalla()  # Puedes usarlo si tienes la función
+       
         print("=================================")
         print('             Reportes            ')
         print("=================================")
