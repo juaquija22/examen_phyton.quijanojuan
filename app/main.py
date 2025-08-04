@@ -10,8 +10,6 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import utils.screencontrollers as sc
-import controllers.añadir as add
-import controllers.buscar as ls
 import controllers.reportes as rp
 
 
@@ -60,7 +58,7 @@ if __name__ == "__main__":
         opcion = ()
 
         if opcion == 1:
-            rp.uno()
+            pass
         elif opcion == 2:
             pass
         elif opcion == 3:

@@ -3,7 +3,7 @@ import config
 import utils.corefile
 
 
-def uno() -> List[Dict]:
+def uno() -> list[dict]:
     sc.limpiar_pantalla()
     archivos = ["reportes.json"]
     resultados = []
