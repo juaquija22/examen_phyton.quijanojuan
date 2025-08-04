@@ -1,0 +1,11 @@
+{
+    "hamburguesas": {
+        "8912": {
+            "nombre": "clasica",
+            "categoria": "l",
+            "ingredientes": "",
+            "precio": "44",
+            "chef": "ll"
+        }
+    }
+}
